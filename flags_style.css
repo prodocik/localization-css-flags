@@ -1,86 +1,70 @@
-html,
-body {
-    margin: 0;
-    padding: 0;
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    width: 505px;
-    height: 260px;
-    padding-top:30px;
-    padding-left:15px;
+  width: 505px;
+  height: 260px;
+  padding-top: 30px;
+  padding-left: 15px;
 }
-
-
 
 .flag_lg {
-    float: left;
-    width: 150px;
-    height: 100px;
-    margin-right: 15px;
-    margin-bottom: 30px;
-    background-color: #ffffff;
-    border: 1px solid #aaaaaa;
-
+  float: left;
+  width: 150px;
+  height: 100px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  border: 1px solid #aaaaaa;
 }
+
 .flag_sm {
-    float: left;
-    width: 75px;
-    height: 50px;
-    margin-right: 15px;
-    margin-bottom: 30px;
-    background-color: #ffffff;
-    border: 1px solid #aaaaaa;
+  float: left;
+  width: 75px;
+  height: 50px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  border: 1px solid #aaaaaa;
 }
 
 .flag_xs {
-    float: left;
-    width: 12px;
-    height: 10px;
-    margin-right: 15px;
-    margin-bottom: 30px;
-    background-color: #ffffff;
-    border: 1px solid #aaaaaa;
-
+  float: left;
+  width: 12px;
+  height: 10px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  border: 1px solid #aaaaaa;
 }
 
 .ireland {
-    background-image: linear-gradient(to right, #009b48 33%, #ffffff 33%, #ffffff 66%, #ff7900 66%)
-    /* цвета: #009b48, #ffffff, #ff7900 */
+  background-image: linear-gradient(to right, #009b48 33%, #ffffff 33%, #ffffff 66%, #ff7900 66%)
 }
 
 .trinidad {
-
-    background-image: linear-gradient(45deg, #ce1126 40%, #ffffff 40%, #ffffff 43%, #000 43%, #000 57%, #ffffff 57%, #ffffff 60%, #ce1126 60%)
-    /* цвета: #ce1126, #ffffff, #000, #ce1126 */
+  background-image: linear-gradient(45deg, #ce1126 40%, #ffffff 40%, #ffffff 43%, #000 43%, #000 57%, #ffffff 57%, #ffffff 60%, #ce1126 60%)
 }
 
 .congo {
-
-      background-image: linear-gradient(-45deg, #dc241f 40%, #fbde4a 40%, #fbde4a 60%, #009543 60%)
-    /* цвета: #009543, #fbde4a, #dc241f */
+  background-image: linear-gradient(-45deg, #dc241f 40%, #fbde4a 40%, #fbde4a 60%, #009543 60%)
 }
 
 .mauritius {
-    background-image: linear-gradient(to top, #00a551 25%,  #ffd500 25%, #ffd500 50%, #1a206d 50%, #1a206d 75%, #ea2839 75%)
-    /* цвета: #ea2839, #1a206d,  #ffd500, #00a551 */
+  background-image: linear-gradient(to top, #00a551 25%, #ffd500 25%, #ffd500 50%, #1a206d 50%, #1a206d 75%, #ea2839 75%)
 }
 
 .botswana {
-    background-image: linear-gradient(to top,#449ed3 30%,   #ffffff 30%, #ffffff 35%, #000000 35%, #000000 65%, #ffffff 65%, #ffffff 70%, #449ed3 70%)
-
-    /* цвета: #449ed3, #ffffff, #000000 */
+  background-image: linear-gradient(to top, #449ed3 30%, #ffffff 30%, #ffffff 35%, #000000 35%, #000000 65%, #ffffff 65%, #ffffff 70%, #449ed3 70%)
 }
 
 .madagaskar {
-    /* цвета: #fc3d32, #007e3a */
-    background-image: linear-gradient(to right, #ffffff 30%, transparent 30%, transparent 100%),
-    linear-gradient(to bottom, #fc3d32 30%,   #fc3d32 50%, #007e3a 35%);
-
-    background-repeat: no-repeat;
+  background-image: linear-gradient(to right, #ffffff 30%, transparent 30%, transparent 100%), linear-gradient(to bottom, #fc3d32 30%, #fc3d32 50%, #007e3a 35%);
+  background-repeat: no-repeat;
 }
 
 .russia {
-    background-image: linear-gradient(to bottom, #ffffff 33%, #3455ff 33%, #3455ff 66%, #e72c2c 66%)
-    /* цвета: #009b48, #ffffff, #ff7900 */
+  background-image: linear-gradient(to bottom, #ffffff 33%, #3455ff 33%, #3455ff 66%, #e72c2c 66%)
 }
